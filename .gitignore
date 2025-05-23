@@ -41,3 +41,5 @@ simulator-core/out*
 node_modules
 /ui/build-resources/
 /ui/dependencies/jre/
+
+cert
