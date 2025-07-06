@@ -1,6 +1,7 @@
 # OCPP Station Simulator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Generic badge](https://img.shields.io/badge/SBOM-blue)](https://github.com/pulsatrix-emobility/station-simulator/network/dependencies)
 
 [GitHub](https://github.com/evbox/station-simulator) repository is readonly, for contribution please use [GitLab](https://gitlab.com/evbox/open-source/station-simulator)
 
