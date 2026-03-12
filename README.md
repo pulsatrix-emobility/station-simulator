@@ -1,3 +1,10 @@
+# ARCHIVED REPOSITORY
+
+This repository was forked from its original source with the intention to use it for testing.
+We've never really used it beyond some experiments.
+
+
+
 # OCPP Station Simulator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
